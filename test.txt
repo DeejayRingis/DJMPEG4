@@ -1,0 +1,10 @@
+out=  0 st=  0 frame=     1 q= 2.0 PSNR=  45.64 f_size= 300125 s_size=      293kB time= 0.010 br= 60025.0kbits/s avg_br= 240100.0kbits/s type= I
+out=  0 st=  0 frame=     2 q= 2.0 PSNR=  45.06 f_size= 296542 s_size=      583kB time= 0.010 br= 59308.4kbits/s avg_br= 477333.6kbits/s type= P
+out=  0 st=  0 frame=     3 q= 2.0 PSNR=  44.50 f_size= 112393 s_size=      692kB time= 0.040 br= 22478.6kbits/s avg_br= 141535.6kbits/s type= B
+out=  0 st=  0 frame=     4 q= 2.0 PSNR=  44.94 f_size= 274260 s_size=      960kB time= 0.080 br= 54852.0kbits/s avg_br= 98236.1kbits/s type= P
+out=  0 st=  0 frame=     5 q= 2.0 PSNR=  44.53 f_size= 106244 s_size=     1064kB time= 0.120 br= 21248.8kbits/s avg_br= 72590.3kbits/s type= B
+out=  0 st=  0 frame=     6 q= 2.0 PSNR=  44.83 f_size= 252421 s_size=     1311kB time= 0.160 br= 50484.2kbits/s avg_br= 67066.5kbits/s type= P
+out=  0 st=  0 frame=     7 q= 2.0 PSNR=  44.56 f_size= 102839 s_size=     1411kB time= 0.200 br= 20567.8kbits/s avg_br= 57770.4kbits/s type= B
+out=  0 st=  0 frame=     8 q= 2.0 PSNR=  44.77 f_size= 223898 s_size=     1630kB time= 0.240 br= 44779.6kbits/s avg_br= 55606.0kbits/s type= P
+out=  0 st=  0 frame=     9 q= 2.0 PSNR=  44.57 f_size=  97774 s_size=     1725kB time= 0.280 br= 19554.8kbits/s avg_br= 50457.2kbits/s type= B
+out=  0 st=  0 frame=    10 q= 2.0 PSNR=  44.58 f_size= 164275 s_size=     1886kB time= 0.320 br= 32855.0kbits/s avg_br= 48257.5kbits/s type= P
